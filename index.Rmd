@@ -15,11 +15,3 @@ I consider myself a community and disease ecologist as well as herpetologist. Th
 
 In making this website, my goal is to increase my public presence and make my own research and knowledge. You may find my   current publications, CV, and research goals, but I also intend to provide semi-frequent updates on my research and also  
 include posts on my areas of expertise. Feel free to have a look around!
-=======
----
-
-Hello! Welcome to my page. Blah blah blah blah
-
-See my publications [here](Publications.html)
-
->>>>>>> a120561e6fc09d40f89252a035c24953d28cdf77
