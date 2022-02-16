@@ -1,0 +1,20 @@
+---
+title: "Publications"
+output: html_document
+---
+
+
+# **2022**
+
+Resetarits JR, WJ, Potts KM, and **Scott JR, RC**. 2022. Island biogeography at the meso-scale: distance from forest edge affects patch size preferences in ovipositing treefrogs. Ecology. *In press*
+
+**Scott JR, RC** and Resetarits JR, WJ. Spatially explicit habitat selection: Testing contagion and the ideal free distribution with Culex mosquitoes. *In prep*
+
+
+**Scott JR, RC** and Resetarits JR, WJ. The Ideal Free Distribution in Cope’s gray tree frog (Hyla chrysoscelis). *In prep*
+
+
+# **2021**
+
+**Scott JR, RC**, MR Pintar, and WJ Resetarits Jr. 2021. [Patch size drives colonization by aquatic insects, with minor priority effects of a cohabitant](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8313). Ecology and Evolution 11(23): 16817–16834. doi: 10.1002/ece3.8313 [pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.8313)
+
