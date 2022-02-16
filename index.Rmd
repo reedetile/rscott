@@ -1,0 +1,8 @@
+---
+title: "Reed Scott"
+---
+
+Hello! Welcome to my page. Blah blah blah blah
+
+See my publications [here](Publications.html)
+
