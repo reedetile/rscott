@@ -1,0 +1,16 @@
+---
+title: "Reed Scott"
+output:
+  prettydoc::html_pretty:
+  theme: tactile
+  highlight: github
+---
+
+![Hello!](D:/Website/website/headshot.jpg)
+
+Thank for stopping by. My name is Reed. I am a currently a PhD student at the University of Vermont studying amphibian disease ecology. 
+
+I consider myself a community and disease ecologist as well as herpetologist. The current goal of my research is to understand  how the  assemblage of species present in a system can determine disease prevalence. I will be answering this question using a  variety of methods, ranging from computer modelling to boots-on-the-ground field sampling.
+
+In making this website, my goal is to increase my public presence and make my own research and knowledge. You may find my   current publications, CV, and research goals, but I also intend to provide semi-frequent updates on my research and also  
+include posts on my areas of expertise. Feel free to have a look around!
